@@ -3,6 +3,7 @@
 
 # Alpha Vantage Library
 Simple library for interacting with the AlphaVantage API
+NOTE: This was written a long while ago
 
 # Usage
 Simply import
